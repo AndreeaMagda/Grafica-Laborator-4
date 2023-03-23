@@ -150,9 +150,10 @@
     <ClInclude Include="GLU.H" />
     <ClInclude Include="glui.h" />
     <ClInclude Include="glut.h" />
+    <ClInclude Include="lab4.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="patrat.cpp" />
+    <ClCompile Include="lab4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

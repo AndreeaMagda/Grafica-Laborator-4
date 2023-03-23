@@ -47,9 +47,12 @@
     <ClInclude Include="glut.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="lab4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="patrat.cpp">
+    <ClCompile Include="lab4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
